@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.object-gallery .container .two-columns .obj-row1  .obj3abovec{
+    height: 51vh !important;
+} 
+.object-gallery .container .two-columns .obj-row1  .obj3abovec p{
+    padding: 10px;
+    margin: 19px;
+}
+.object-gallery .container .two-columns .obj-row2  .obj3belowb{
+    height: 51vh !important;
+}
+.object-gallery .container .two-columns .obj-row2  .obj3belowb p{
+    padding: 10px;
+    margin: 19px;
+}
+.container .twin-div{
+    width: 100%;
+}
+.container .twin-div .left-content{
+    width: 50%;
+}
+

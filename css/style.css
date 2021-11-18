@@ -24,3 +24,26 @@
     width: 50%;
 }
 
+@media screen and (max-width: 320px){
+  .page-container {
+    Width: 100%;
+    Height: 800vh;
+}
+   .page-container .home-container{
+     Width: 100%;
+     Height: 100vh;
+}
+.page-container .home-container . container {
+     Width: 100%;
+     Height: 100vh;
+}
+.page-container .home-container . container .comp-container{
+     Width:100%;
+     Height: 100vh;
+     Display: Flex;
+     Flex-direction: column;
+     Justify-content: center;
+     Align-item: center;
+
+}
+}

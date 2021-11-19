@@ -42,7 +42,6 @@
      Height: 100vh;Display: Flex;
      Flex-direction: column;
      Justify-content: center;
-     align-item: center;
 }
 .page-container .home-container  .container .comp-container .works-cover{
      Width:100%;

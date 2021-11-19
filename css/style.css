@@ -33,22 +33,22 @@
      Width: 100%;
      Height: 100vh;
 }
-.page-container .home-container . container {
+.page-container .home-container .container {
      Width: 100%;
      Height: 100vh;
 }
-.page-container .home-container . container .comp-container{
+.page-container .home-container .container .comp-container{
      Width:100%;
      Height: 100vh;Display: Flex;
      Flex-direction: column;
      Justify-content: center;
-     Align-item: center;
+     align-item: center;
 }
-.page-container .home-container . container .comp-container .works-cover{
+.page-container .home-container  .container .comp-container .works-cover{
      Width:100%;
      Height: 100vh;
 }
-.page-container .home-container . container .comp-container .works-cover .works-img{
+.page-container .home-container .container .comp-container .works-cover .works-img{
       Width:50%;
      Height: 100vh;
 }
